@@ -1,5 +1,7 @@
 Olá, sou o @PirateX20 atualmente estou estudando malwares e segurança digital
 
+Desenvolvendo projeto de controle robótico através de aplicação mobile em python/kivy
+
 - 📫 ainda sem contato...
 
 Dicionário Pessoal para os códigos:
