@@ -1,6 +1,8 @@
-Olá, sou o @PirateX20 atualmente estou estudando malwares e segurança digital
+Olá, este é o perfil do meu pseudonimo @PirateX20 atualmente estou estudando malwares e segurança digital, um pouco de outras coisas também como robótica e visão computacional, alguns projetos futuramente migrarão de perfil, pois quero separar um pouco as coisas por aqui.
 
+☆Projetos em destaque atualmente☆
 ☆ Desenvolvendo projeto de controle robótico através de aplicação mobile em python/kivy
+☆ Aprendendo a desenvolver um site simples em HTML/CSS/JS
 
 - 📫 ainda sem contato...
 
